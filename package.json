@@ -1,6 +1,7 @@
 {
-  "name": "dougmead-showcase-portfolio",
+  "name": "business-card",
   "private": true,
+  "homepage": "https://includeRubiks.github.io/business-card/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
